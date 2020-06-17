@@ -1,0 +1,2 @@
+module xd {
+}
